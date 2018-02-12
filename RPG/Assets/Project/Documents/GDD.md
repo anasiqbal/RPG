@@ -1,4 +1,7 @@
 ## Project "Archer" Game Design Document
+### Description
+
+
 **Genre:** RPG, 3rd person fixed camera role playing game.
 **Target Audience:** T for Teen
 **Controls:** Mouse & Keyboard + Controller
@@ -7,5 +10,5 @@
 **Platforms:** Steam
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDM1NzI4NF19
+eyJoaXN0b3J5IjpbMTk3MzEwMjAwNV19
 -->

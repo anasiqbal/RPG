@@ -3,7 +3,9 @@
 **Target Audience:** T for Teen
 **Controls:** Mouse & Keyboard + Controller
 **Theme Setting:** Medieval Fantasy - Archery, Dagger
-**Tech Stack:** Unity 2017+, 
+**Tech Stack:** Unity 2017+, Photoshop, Audacity, Blender
+**Platforms:** Steam
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc4ODQyMjBdfQ==
+eyJoaXN0b3J5IjpbMTkxMDM1NzI4NF19
 -->

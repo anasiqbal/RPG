@@ -8,7 +8,7 @@ Stealth and Archery setting
 **Theme Setting:** Medieval Fantasy - Archery, Dagger
 **Tech Stack:** Unity 2017+, Photoshop, Audacity, Blender
 **Platforms:** Steam
-
+**Game Moment:** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxOTQ2ODAxXX0=
+eyJoaXN0b3J5IjpbLTc3ODM5NjYyNV19
 -->

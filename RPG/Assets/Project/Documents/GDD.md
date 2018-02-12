@@ -8,7 +8,7 @@ Stealth and Archery setting
 **Theme Setting:** Medieval Fantasy - Archery, Dagger
 **Tech Stack:** Unity 2017+, Photoshop, Audacity, Blender
 **Platforms:** Steam
-**Game Moment:** Hack and slash archery and stealth game
+**Game Moment:** 2 minutes of simple level flow, hack and slash style archery and stealth game.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDQ4MTI0MF19
+eyJoaXN0b3J5IjpbMjUwMzkxODE5XX0=
 -->

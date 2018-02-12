@@ -1,6 +1,6 @@
 ## Project "Archer" Game Design Document
 ### Description
-Stealth and Archery
+Stealth and Archery setting
 
 **Genre:** RPG, 3rd person fixed camera role playing game.
 **Target Audience:** T for Teen
@@ -10,5 +10,5 @@ Stealth and Archery
 **Platforms:** Steam
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODcyNjYyNV19
+eyJoaXN0b3J5IjpbNDAxOTQ2ODAxXX0=
 -->
